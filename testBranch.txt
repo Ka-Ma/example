@@ -1,1 +1,3 @@
 made a change for a second commit in order to test squashing
+i copied it into the other user for some dumb reason
+i don't knwo what i am doing now
